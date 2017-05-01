@@ -17,7 +17,6 @@
 #import "Reachability.h"
 
 #pragma mark IPv6 Support
-//Reachability fully support IPv6.  For full details, see ReadMe.md.
 
 
 NSString *kReachabilityChangedNotification = @"kNetworkReachabilityChangedNotification";
